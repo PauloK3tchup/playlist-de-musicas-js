@@ -1,0 +1,29 @@
+html{
+    background-image: url(fundo.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+div#tudo{
+    width: fit-content;
+    max-width: 40%;
+    height: auto;
+    margin-top: 2%;
+    border-radius: 5vh;
+    padding: 1vh;
+}
+
+ul{
+    list-style: none
+}
+
+li{
+    margin-bottom: 5vh;
+    background-color: lightgrey;
+    padding: 3vh;
+}
+
+li button{
+    margin: 1%;
+}
